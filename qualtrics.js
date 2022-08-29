@@ -8,10 +8,10 @@ Qualtrics.SurveyEngine.addOnload(function()
      // https://<GitHubのユーザー名>.github.io/<レポジトリ名>/
  
      var requiredResources = [
-        task_gitgub+"jspsych/dist/jspsych.js",
-        task_gitgub+"jspsych/dist/plugin-html-keyboard-response.js",
-        task_gitgub+"jspsych/dist/plugin-image-keyboard-response.js",
-        task_gitgub+"jspsych/dist/plugin-preload.js",
+        task_github+"jspsych/dist/jspsych.js",
+        task_github+"jspsych/dist/plugin-html-keyboard-response.js",
+        task_github+"jspsych/dist/plugin-image-keyboard-response.js",
+        task_github+"jspsych/dist/plugin-preload.js",
         task_github + "main.js"
      ];
  
